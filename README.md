@@ -143,7 +143,7 @@ automated_financial_data_quality_checker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/titlydey/automated-financial-data-quality-checker.git
+git clone https://github.com/shruti250804/automated-financial-data-quality-checker
 ```
 
 ### 2. Open the project
@@ -372,15 +372,18 @@ before being used for decision-making.
 https://automated-financial-data-quality-checker-jkffaxdchghujxb4k3rk4.streamlit.app/
 
 **GitHub:**
-https://github.com/titlydey/automated-financial-data-quality-checker
+https://github.com/shruti250804/automated-financial-data-quality-checker
 
 ---
 
 ## 👩‍💻 Author
 
-**Title Dey**
+**Shruti Rana**
 
-B.Tech Computer Science & Engineering
-Data Analytics | SQL | Excel | Tableau | Python
+MCA Student | Thapar Institute of Engineering and Technology
 
-LinkedIn: linkedin.com/in/titlydey
+- GitHub: https://github.com/shruti250804
+- LinkedIn: https://www.linkedin.com/in/shruti-rana-7a1768316
+
+**Areas of Interest:** Backend Development | Data Analytics | Python | SQL | AI/ML
+
